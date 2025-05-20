@@ -84,7 +84,8 @@ To use this application, you need:
 
 ## Screenshot
 
-![Crypto Assistant Interface](screenshot.png)
+![image](https://github.com/user-attachments/assets/67abe164-2e46-4048-85ee-2246ee7885a4)
+
 
 ## License
 
