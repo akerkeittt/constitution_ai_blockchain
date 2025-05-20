@@ -84,7 +84,9 @@ To use this application, you need:
 
 ## Screenshot
 
-![image](https://github.com/user-attachments/assets/67abe164-2e46-4048-85ee-2246ee7885a4)
+![image](https://github.com/user-attachments/assets/16d09961-e319-44da-982d-e66e5b2cc35a)
+
+![image](https://github.com/user-attachments/assets/14d38265-d176-4924-a9da-57e45f39d999)
 
 
 ## License
