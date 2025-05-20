@@ -88,6 +88,8 @@ To use this application, you need:
 
 ![image](https://github.com/user-attachments/assets/14d38265-d176-4924-a9da-57e45f39d999)
 
+![image](https://github.com/user-attachments/assets/7eb785cd-0e3b-4b9a-9e23-b49eb226444c)
+
 
 ## License
 
