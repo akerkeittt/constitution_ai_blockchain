@@ -100,8 +100,8 @@ if not from top-50:
 
 ![image](https://github.com/user-attachments/assets/937cb5bc-2cbd-4fbf-a304-aff9ffa246ae)
 
-![image](https://github.com/user-attachments/assets/52a8e955-62ec-4b65-92ef-4ca50664a6b0)
-![image](https://github.com/user-attachments/assets/9e750f30-4e77-4c0e-b15c-9db5226b2c60)
+![image](https://github.com/user-attachments/assets/cd75e14e-87e0-4fc5-b5e9-5f1c254154a5)
+
 
 
 ## License
