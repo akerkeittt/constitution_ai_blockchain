@@ -94,6 +94,10 @@ To use this application, you need:
 
 ![image](https://github.com/user-attachments/assets/de3b3fd8-151c-4e3b-ab7a-1b2ccf17fbd9)
 
+if not from top-50:
+
+![image](https://github.com/user-attachments/assets/b03dfd07-0451-4a82-8cf5-57d071b041c6)
+
 
 ## License
 
