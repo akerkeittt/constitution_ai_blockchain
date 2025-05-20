@@ -90,6 +90,10 @@ To use this application, you need:
 
 ![image](https://github.com/user-attachments/assets/7eb785cd-0e3b-4b9a-9e23-b49eb226444c)
 
+![image](https://github.com/user-attachments/assets/cc2dee69-217f-423c-bc8a-c3ccdaa96535)
+
+![image](https://github.com/user-attachments/assets/de3b3fd8-151c-4e3b-ab7a-1b2ccf17fbd9)
+
 
 ## License
 
